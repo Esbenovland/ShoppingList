@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.9.1">
+  <diagram name="Side-1" id="epjlj_MYOPEVT78Xrxjm">
+    <mxGraphModel dx="1105" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ycKeXUakq5a-1OWucjl5-1" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ycKeXUakq5a-1OWucjl5-2" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ycKeXUakq5a-1OWucjl5-3" value="Button &quot;Tilføj&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ycKeXUakq5a-1OWucjl5-4" value="Indtast vare" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="48" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ycKeXUakq5a-1OWucjl5-5" value="Kommentarer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ycKeXUakq5a-1OWucjl5-7" value="Vare&lt;div&gt;&amp;nbsp;- kommentar&lt;/div&gt;&lt;div&gt;Vare&lt;/div&gt;&lt;div&gt;&amp;nbsp;- kommentar&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="550" y="80" width="230" height="402" as="geometry" />
+        </mxCell>
+        <mxCell id="ycKeXUakq5a-1OWucjl5-8" value="Indkøbsliste" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="48" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ycKeXUakq5a-1OWucjl5-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ycKeXUakq5a-1OWucjl5-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ycKeXUakq5a-1OWucjl5-11" value="Button &quot;Ryd markeret&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ycKeXUakq5a-1OWucjl5-12" value="Button &quot;Ryd hele listen&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="130" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
